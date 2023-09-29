@@ -1,8 +1,5 @@
 #include "main.h"
 
-int check_pal(char *s, int i, int len);
-int _strlen_recursion(char *s);
-
 /**
  * wildcmp - Compare strings
  * @s1: pointer to string params
